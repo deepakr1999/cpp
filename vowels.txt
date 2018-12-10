@@ -1,0 +1,2 @@
+Succesfull able to get real time data using mobile application.
+Optimized code helped in good performance of the application.
